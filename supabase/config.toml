@@ -1,0 +1,4 @@
+project_id = "ppvogdmetarsdevejnoa"
+
+[functions.ai-search]
+verify_jwt = false
